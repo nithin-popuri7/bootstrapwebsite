@@ -262,6 +262,12 @@ the BPR&D so that problems relating to prisons and implementation of deemed pris
 
 ## OUTPUT:
 ![gihublogo](home.png)
+![githublogo](home1.png)
+![githublogo](home2.png)
+![githublogo](home3.png)
+![githublogo](home4.png)
+![githublogo](home5.png)
+![githublogo](home6.png)
 
 ### Home Page:
 
